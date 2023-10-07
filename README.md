@@ -1,1 +1,5 @@
-https://65206d9e5d73374100aff5e9--candid-peony-e83f87.netlify.app/- watch online
+на localhost:3000
+
+npm install -y
+
+npm start run
